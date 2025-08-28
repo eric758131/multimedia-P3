@@ -1,0 +1,3 @@
+Este proyecto utiliza los atributos defer y async en los scripts para optimizar la carga de JavaScript
+defer asegura que los scripts se ejecuten en orden después de cargar el DOM, mientras que async permite
+que los scripts se ejecuten tan pronto como se descarguen, sin esperar a que el contenido de la página esté completamente cargado.
